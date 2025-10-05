@@ -29,7 +29,7 @@ I'm passionate about building tools that help people work more efficiently.
 ## 📫 Let's Connect
 
 - 📧 Email: michaeljoe.saludares@gmail.com  
-- 🌐 Portfolio: [MJS - Portfolio](https://mikey-san8.github.io/User-Portfolio-Website/)
+- 🌐 Portfolio: [MJS - Portfolio](https://michael-joe-saludares.vercel.app/)
 - 💼 LinkedIn: [Michael Joe Saludares](https://www.linkedin.com/in/michael-joe-saludares-45a3482aa/)
 
 ---
