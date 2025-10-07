@@ -1,7 +1,7 @@
 # Hello! I'm Michael Joe Saludares
 
 IT Programmer | Software Developer | Philippines  
-I specialize in **desktop and web applications** using **Java**, **C# .NET**, and **SQL**.  
+I specialize in **desktop and web applications** using **Java**, **C# .NET**, **HTML**, **CSS/Tailwind CSS**, **Javascript**, and **SQL**.  
 I'm passionate about building tools that help people work more efficiently.
 
 ---
