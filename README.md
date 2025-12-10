@@ -1,8 +1,9 @@
-# Hello! I'm Michael Joe Saludares
+# Hello! I'm Michael Joe Saludares - MJS
 
-IT Programmer | Software Developer | Philippines  
-I specialize in **desktop and web applications** using **Java**, **C# .NET**, **HTML**, **CSS/Tailwind CSS**, **Javascript**, and **SQL**.  
-I'm passionate about building tools that help people work more efficiently.
+IT Programmer | Web Developer | Philippines
+Software development became a path because solving problems is genuinely enjoyable—beyond just writing code.
+In a world where AI can generate lines, the focus stays on logic, structure, and maintainability that make solutions actually work.
+Creativity, understanding, and practical problem-solving come together to build solutions that last and make sense.
 
 ---
 
@@ -30,7 +31,7 @@ I'm passionate about building tools that help people work more efficiently.
 
 ## 📫 Let's Connect
 
-- 📧 Email: michaeljoe.saludares@gmail.com  
+- 📧 Email: michaeljoe.saludares.dev@gmail.com  
 - 🌐 Portfolio: [MJS - Portfolio](https://michael-joe-saludares.vercel.app/)
 - 💼 LinkedIn: [Michael Joe Saludares](https://www.linkedin.com/in/michael-joe-saludares-45a3482aa/)
 
