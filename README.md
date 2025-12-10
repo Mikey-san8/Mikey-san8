@@ -1,6 +1,9 @@
 # Hello! I'm Michael Joe Saludares - MJS
 
 IT Programmer | Web Developer | Philippines
+
+---
+
 Software development became a path because solving problems is genuinely enjoyable—beyond just writing code.
 In a world where AI can generate lines, the focus stays on logic, structure, and maintainability that make solutions actually work.
 Creativity, understanding, and practical problem-solving come together to build solutions that last and make sense.
