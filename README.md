@@ -1,6 +1,6 @@
 # Hello! I'm Michael Joe Saludares - MJS
 
-IT Programmer | Web Developer | Philippines
+Software Developer | Web Developer | IT Programmer | Philippines
 
 ---
 
