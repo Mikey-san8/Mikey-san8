@@ -42,3 +42,6 @@ Creativity, understanding, and practical problem-solving come together to build 
 
 _“Started from desktop apps, growing into the full stack world.”_
 
+---
+
+_Private Repositories: Actively building in private environments_
